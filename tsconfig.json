@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"module": "none",
+		"lib": ["es2016", "dom"],
+		"noImplicitAny": true,
+		"preserveConstEnums": true,
+		"removeComments": true,
+		"rootDir": "./src",
+		"outDir": "./public/js/",
+		"sourceMap": false,
+		"target": "es5",
+		"moduleResolution": "node"
+	}
+}
